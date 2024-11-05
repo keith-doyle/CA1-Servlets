@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_431"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Keeth/OneDrive - Technological University Dublin/Year 3/Web Development/apache-tomcat-9.0.95/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/MySQL/mysql-connector-j-9.1.0/mysql-connector-j-9.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Keeth/Desktop/mysql-connector-j-8.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
